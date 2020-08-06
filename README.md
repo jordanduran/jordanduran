@@ -1,7 +1,7 @@
 ### Hi there, I'm Jordan - aka [jordanduran][website]  👋
 
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on some vanilla JS and React projects[website]!
 - 🌱 Always learning new tech to further improve my skillset.
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I am a big fan of gaming, and The Office. I also can do lots of cool stuff with a skateboard!

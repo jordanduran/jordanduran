@@ -35,6 +35,6 @@
 
 <img align="left" alt="jordanduran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordanduran&show_icons=true&hide_border=true" />
 
-[website]: https://jordanduran.io
+[website]: https://jordanduran.vercel.app/
 [instagram]: https://instagram.com/jordan_duran
 [linkedin]: https://www.linkedin.com/in/jordan-duran-0b0b02a3/

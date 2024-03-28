@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on some [Next.js and TypeScript projects][website]!
 - 🌱 Always learning new tech to further improve my skillset.
-- 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun facts: I'm a big fan of gaming, love watching The Office, and I can do some impressive things with a skateboard!
 
 ### Connect with me:
